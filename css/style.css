@@ -1,0 +1,42 @@
+body{
+  background-image: url(img/sfondo.jpg);
+  background-size: cover;
+  width: 1000px;
+  margin: auto;
+}
+#testo{
+  color: white;
+  font-size: 60px;
+  position: relative;
+  bottom: 60px;
+  display: inline-block;
+}
+.testo_centrale{
+  color: white;
+  font-size: 50px;
+  margin-top: 30px;
+}
+#modifica{
+  background-color: orange;
+  border-radius: 100%;
+  padding: 10px;
+}
+.riga{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+#cuore{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+#testo-riga{
+  color: grey;
+}
+.testo_finale{
+  width: 500px;
+  color: white;
+  margin:auto;
+}
+#gmail{
+  font-size: 40px;
+}
